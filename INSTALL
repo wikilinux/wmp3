@@ -1,0 +1,11 @@
+Wellcome to wmp3!
+
+To install wmp3 on your system for only you, run:
+    ./install
+
+Install for all user, run:
+    sudo ./install              (you have to enter password to excute command)
+
+
+If you want to use portable, run "wmp3.sh" file:
+    ./wmp3
